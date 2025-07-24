@@ -207,3 +207,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Jul2025 23:50:20.805] [Server thread/INFO] [Jade/]: Syncing config to kanapo743 (5af80df5-eb87-4a8e-817a-7f7532999089)
 [23Jul2025 23:56:26.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kanapo743 has made the advancement [Not Today, Thank You]
 [23Jul2025 23:58:12.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kanapo743 has made the advancement [Diamonds!]
+[23Jul2025 23:59:34.740] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=235, y=15, z=-192}
