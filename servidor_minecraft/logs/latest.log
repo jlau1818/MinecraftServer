@@ -309,3 +309,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Jul2025 01:42:53.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
 [27Jul2025 01:51:10.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [27Jul2025 01:51:10.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[27Jul2025 01:55:44.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kanapo743 has made the advancement [Best Friends Forever]
+[27Jul2025 01:57:27.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[27Jul2025 01:57:27.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
