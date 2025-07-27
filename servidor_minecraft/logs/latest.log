@@ -223,3 +223,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Jul2025 00:14:16.833] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kanapo743[/127.1.80.29:45591] logged in with entity id 635 at (5.8407762676872235, 69.5625, 3.600151152224331)
 [27Jul2025 00:14:16.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kanapo743 joined the game
 [27Jul2025 00:14:16.892] [Server thread/INFO] [Jade/]: Syncing config to kanapo743 (ed4b885a-55a1-344b-bd82-6b68f65780ea)
+[27Jul2025 00:18:40.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[27Jul2025 00:18:40.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[27Jul2025 00:21:07.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kanapo743 has made the advancement [Crops of the Wild]
+[27Jul2025 00:21:38.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kanapo743 is bleeding. kanapo743 was blown up by Creeper
+[27Jul2025 00:21:51.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kanapo743 was blown up by Creeper
+[27Jul2025 00:21:51.123] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-271, 73, -289) minecraft:overworld
+[27Jul2025 00:22:11.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kanapo743 has made the advancement [Sweet Dreams]

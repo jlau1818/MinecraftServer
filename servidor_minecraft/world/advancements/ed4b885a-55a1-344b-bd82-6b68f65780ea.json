@@ -49,81 +49,816 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:dark_forest": "2025-07-27 00:09:09 +0000"
+      "minecraft:beach": "2025-07-27 00:20:22 +0000",
+      "minecraft:dark_forest": "2025-07-27 00:09:09 +0000",
+      "minecraft:river": "2025-07-27 00:19:10 +0000",
+      "minecraft:windswept_savanna": "2025-07-27 00:20:12 +0000"
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "cfm:recipes/decorations/birch_cabinet": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 00:12:33 +0000"
+      "has_log": "2025-07-27 00:18:15 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "cfm:recipes/decorations/stripped_dark_oak_park_bench": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 00:12:33 +0000"
+      "has_log": "2025-07-27 00:16:50 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/decorations/ladder": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 00:12:33 +0000"
+      "has_stick": "2025-07-27 00:17:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_counter": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 00:12:33 +0000"
+      "has_log": "2025-07-27 00:16:50 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "cfm:recipes/decorations/birch_desk_cabinet": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 00:12:33 +0000"
+      "has_log": "2025-07-27 00:18:15 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "cfm:recipes/decorations/dark_oak_desk_cabinet": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 00:12:33 +0000"
+      "has_log": "2025-07-27 00:16:50 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "cfm:recipes/decorations/dark_oak_blinds": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 00:12:33 +0000"
+      "has_log": "2025-07-27 00:16:50 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "supplementaries:recipes/crank": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 00:12:33 +0000"
+      "forge:rods/wooden": "2025-07-27 00:17:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "supplementaries:recipes/flags/flag_orange": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 00:12:33 +0000"
+      "has_stick": "2025-07-27 00:17:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "mcwwindows:recipes/dark_oak": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 00:12:33 +0000"
+      "has_wood": "2025-07-27 00:16:50 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "supplementaries:recipes/flags/flag_magenta": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 00:12:33 +0000"
+      "has_stick": "2025-07-27 00:17:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "cfm:recipes/decorations/stripped_dark_oak_bedside_cabinet": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 00:12:33 +0000"
+      "has_planks": "2025-07-27 00:16:50 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "supplementaries:recipes/lock_block": {
+    "criteria": {
+      "minecraft:planks": "2025-07-27 00:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_the_recipe": "2025-07-27 00:17:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_table": {
+    "criteria": {
+      "has_log": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-07-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-07-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_item": "2025-07-27 00:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-07-27 00:17:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-07-27 00:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_coffee_table": {
+    "criteria": {
+      "has_log": "2025-07-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-07-27 00:20:33 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtain_rods": {
+    "criteria": {
+      "has_wood": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_blinds": {
+    "criteria": {
+      "has_log": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-07-27 00:17:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk": {
+    "criteria": {
+      "has_log": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-27 00:17:02 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub_cross_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-27 00:17:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-07-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_pink": {
+    "criteria": {
+      "has_stick": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-07-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/timber_frame": {
+    "criteria": {
+      "forge:rods/wooden": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_crate": {
+    "criteria": {
+      "has_log": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-07-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-07-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_chair": {
+    "criteria": {
+      "has_log": "2025-07-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "forge:rods/wooden": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/timber_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/turn_table": {
+    "criteria": {
+      "minecraft:planks": "2025-07-27 00:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_coffee_table": {
+    "criteria": {
+      "has_log": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-07-27 00:20:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/clock_block": {
+    "criteria": {
+      "minecraft:planks": "2025-07-27 00:17:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_black": {
+    "criteria": {
+      "has_stick": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-07-27 00:17:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_green": {
+    "criteria": {
+      "has_stick": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_table": {
+    "criteria": {
+      "has_log": "2025-07-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-27 00:17:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_purple": {
+    "criteria": {
+      "has_stick": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_white": {
+    "criteria": {
+      "has_stick": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-07-27 00:20:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-27 00:20:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2025-07-27 00:20:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2025-07-27 00:20:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/timber_cross_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-27 00:17:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-07-27 00:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-27 00:17:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_brown": {
+    "criteria": {
+      "has_stick": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_gray": {
+    "criteria": {
+      "has_stick": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/faucet": {
+    "criteria": {
+      "forge:rods/wooden": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-07-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_crate": {
+    "criteria": {
+      "has_planks": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-07-27 00:20:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bed_from_feather_block": {
+    "criteria": {
+      "minecraft:planks": "2025-07-27 00:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-27 00:17:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-07-27 00:17:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2025-07-27 00:20:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_park_bench": {
+    "criteria": {
+      "has_log": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2025-07-27 00:17:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "minecraft:planks": "2025-07-27 00:17:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_light_blue": {
+    "criteria": {
+      "has_stick": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-07-27 00:20:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-07-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-07-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-07-27 00:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-27 00:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-27 00:17:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-07-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_crate": {
+    "criteria": {
+      "has_log": "2025-07-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-27 00:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-27 00:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-07-27 00:20:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_blue": {
+    "criteria": {
+      "has_stick": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_desk": {
+    "criteria": {
+      "has_planks": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "minecraft:planks": "2025-07-27 00:17:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_chair": {
+    "criteria": {
+      "has_log": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub_frame": {
+    "criteria": {
+      "forge:rods/wooden": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_table": {
+    "criteria": {
+      "has_planks": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_park_bench": {
+    "criteria": {
+      "has_log": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2025-07-27 00:20:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2025-07-27 00:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-07-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_cyan": {
+    "criteria": {
+      "has_stick": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_yellow": {
+    "criteria": {
+      "has_stick": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-07-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_light_gray": {
+    "criteria": {
+      "has_stick": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_red": {
+    "criteria": {
+      "has_stick": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_desk": {
+    "criteria": {
+      "has_log": "2025-07-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pulley": {
+    "criteria": {
+      "minecraft:planks": "2025-07-27 00:17:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-07-27 00:18:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2025-07-27 00:20:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-07-27 00:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-27 00:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-27 00:20:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_lime": {
+    "criteria": {
+      "has_stick": "2025-07-27 00:17:44 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
