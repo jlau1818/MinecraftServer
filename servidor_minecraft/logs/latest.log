@@ -219,3 +219,35 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Jul2025 00:49:02.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 8 [Diamond] to kanapo743
 [27Jul2025 00:49:20.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:gold'
 [27Jul2025 00:49:20.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...kanapo743 minecraft:gold 8<--[HERE]
+[27Jul2025 00:51:45.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:gold'
+[27Jul2025 00:51:45.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...kanapo743 minecraft:gold 8/give kanapo743 minecraft:gold_ingot 64
+/give kanapo743 minecraft:iron_ingot 128
+/give kanapo743 minecraft:string 5
+/give kanapo743 minecraft:leather 4
+/give kanapo743 minecraft:redstone 100
+/give kanapo743 minecraft:lapis_lazuli 128
+/give kanapo743 minecraft:coal 64
+
+/give kanapo743 minecraft:iron_helmet 1
+/give kanapo743 minecraft:iron_chestplate 1
+/give kanapo743 minecraft:iron_leggings 1
+/give kanapo743 minecraft:iron_boots 1<--[HERE]
+[27Jul2025 00:52:46.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 64 [Gold Ingot] to kanapo743
+[27Jul2025 00:52:59.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kanapo743 has made the advancement [Acquire Hardware]
+[27Jul2025 00:52:59.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 128 [Iron Ingot] to kanapo743
+[27Jul2025 00:53:15.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [String] to kanapo743
+[27Jul2025 00:53:22.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 4 [Leather] to kanapo743
+[27Jul2025 00:53:30.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 100 [Redstone Dust] to kanapo743
+[27Jul2025 00:53:39.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 128 [Lapis Lazuli] to kanapo743
+[27Jul2025 00:53:46.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 64 [Coal] to kanapo743
+[27Jul2025 00:53:54.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kanapo743 has made the advancement [Suit Up]
+[27Jul2025 00:53:54.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Iron Helmet] to kanapo743
+[27Jul2025 00:54:02.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Iron Chestplate] to kanapo743
+[27Jul2025 00:54:09.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Iron Leggings] to kanapo743
+[27Jul2025 00:54:16.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Iron Boots] to kanapo743
+[27Jul2025 00:54:59.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Gold Backpack] to kanapo743
+[27Jul2025 00:58:00.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 20 [Bone] to kanapo743
+[27Jul2025 00:58:19.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Bucket of Axolotl] to kanapo743
+[27Jul2025 00:58:27.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Bucket of Axolotl] to kanapo743
+[27Jul2025 01:00:19.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[27Jul2025 01:00:19.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
